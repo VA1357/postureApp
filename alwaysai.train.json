@@ -1,0 +1,15 @@
+{
+    "model": "mobilenet_v1",
+    "numEpochs": 1,
+    "numSteps": 0,
+    "numClasses": 1,
+    "labels": [
+        "none"
+    ],
+    "batchSize": 4,
+    "trainValRatio": 0.7,
+    "id": "vibhua1357/elastic_johnson",
+    "fromCheckPoint": false,
+    "imWidth": 300,
+    "imHeight": 300
+}
